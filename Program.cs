@@ -2,7 +2,7 @@
 
 public class Program{
     public static void Main(){
-
+        //test comment to check commit from git cloud
         string player = GetPlayersChoice();
         string computer = GetComputerChoice();
         DetermineWinner(player, computer);
