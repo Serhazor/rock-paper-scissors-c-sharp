@@ -1,0 +1,15 @@
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/bin/Debug/net8.0/DiceGame
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/bin/Debug/net8.0/DiceGame.deps.json
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/bin/Debug/net8.0/DiceGame.runtimeconfig.json
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/bin/Debug/net8.0/DiceGame.dll
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/bin/Debug/net8.0/DiceGame.pdb
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfoInputs.cache
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfo.cs
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.csproj.CoreCompileInputs.cache
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.sourcelink.json
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.dll
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/refint/DiceGame.dll
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.pdb
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/DiceGame.genruntimeconfig.cache
+/workspaces/rock-paper-scissors-c-sharp/DiceGame/obj/Debug/net8.0/ref/DiceGame.dll
